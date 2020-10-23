@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T06:21:36.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="422lSCRDdPhbloFardSw" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T06:23:14.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="-YCnJQ-a9wHPtCkjZ4YN" version="13.8.0" type="github">
   <diagram name="Page-1" id="b33cb84f-bf7a-9ccf-f142-242d16432e5d">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -30,6 +30,12 @@
         </mxCell>
         <mxCell id="-vPZNcomkNUSN_7R_Doy-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Traffic Signal Controller&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#10739e;fillColor=#b1ddf0;gradientColor=#ffffff;gradientDirection=north;arcSize=25;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-vPZNcomkNUSN_7R_Doy-17" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rounded=1;glass=0;sketch=0;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="592.4" y="90" width="25.2" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-vPZNcomkNUSN_7R_Doy-18" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rounded=1;glass=0;sketch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="710" y="262" width="25.2" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
