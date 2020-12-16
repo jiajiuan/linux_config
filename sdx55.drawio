@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T07:08:57.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="13.10.6" etag="ZQBGDfEHxJSVyaOgDR0V" type="github"><diagram id="uIzh5zfkI0VYM9tbfICL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-16T07:22:30.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="CKgWcsGGex3qOyM9qD-7" version="13.10.6" type="github">
+  <diagram id="uIzh5zfkI0VYM9tbfICL" name="Page-1">
+    <mxGraphModel dx="1102" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="72_oWaq8OEtg4QV_uTBS-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="80" width="250" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="72_oWaq8OEtg4QV_uTBS-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;SDX55&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="72_oWaq8OEtg4QV_uTBS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;startArrow=classic;startFill=1;strokeColor=#000099;" edge="1" parent="1" source="72_oWaq8OEtg4QV_uTBS-3" target="72_oWaq8OEtg4QV_uTBS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72_oWaq8OEtg4QV_uTBS-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;font color=&quot;#990000&quot;&gt;Peripheral Mode&lt;/font&gt;&lt;br&gt;BT Stack (GATT)&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="72_oWaq8OEtg4QV_uTBS-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;cc2640&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="72_oWaq8OEtg4QV_uTBS-5" value="&lt;b style=&quot;font-size: 13px&quot;&gt;UART Daemon&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="72_oWaq8OEtg4QV_uTBS-9" value="&lt;font color=&quot;#990000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;Central Mode&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="340" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="72_oWaq8OEtg4QV_uTBS-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Device_Config.svg;" vertex="1" parent="1">
+          <mxGeometry x="161.1" y="270" width="61.6" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="72_oWaq8OEtg4QV_uTBS-13" value="" style="shape=mxgraph.signs.tech.rss;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="355" y="225" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="72_oWaq8OEtg4QV_uTBS-14" value="&lt;font color=&quot;#000099&quot;&gt;&lt;b&gt;Advertising Beacon&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="72_oWaq8OEtg4QV_uTBS-15" value="&lt;b style=&quot;color: rgb(0 , 0 , 153) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;Scan&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="370" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="72_oWaq8OEtg4QV_uTBS-16" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="123" y="378" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="72_oWaq8OEtg4QV_uTBS-17" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="378" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="72_oWaq8OEtg4QV_uTBS-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeColor=#000099;strokeWidth=4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="72_oWaq8OEtg4QV_uTBS-18" target="72_oWaq8OEtg4QV_uTBS-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="72_oWaq8OEtg4QV_uTBS-18" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font color=&quot;#000099&quot; face=&quot;helvetica&quot;&gt;&lt;b&gt;Connect with PIN&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222.7" y="370" width="127.3" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
